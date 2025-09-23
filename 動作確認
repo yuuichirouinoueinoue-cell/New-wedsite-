@@ -7,5 +7,6 @@
   <body>
     <h1>はじめてのGitHub Pages</h1>
     <p>ちゃんと動くかな？</p>
+    <span style="color:red">あってるんけ</span>
   </body>
 </html>
