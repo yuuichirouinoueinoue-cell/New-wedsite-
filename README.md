@@ -1,1 +1,11 @@
-# New-wedsite-
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Hello GitHub</title>
+  </head>
+  <body>
+    <h1>はじめてのGitHub Pages</h1>
+    <p>ちゃんと動くかな？</p>
+  </body>
+</html>
